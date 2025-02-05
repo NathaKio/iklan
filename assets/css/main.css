@@ -4072,7 +4072,7 @@ input, select, textarea {
 		/* Spotlight */
 
 			.spotlight .image.main {
-				max-height: 50vh;
+				max-height: 500vh;
 			}
 
 			.spotlight .content {
