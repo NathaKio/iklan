@@ -2520,7 +2520,7 @@ input, select, textarea {
 		.image:before {
 			content: '';
 			display: block;
-			position: absolute;
+			position: relative;
 			left: 0;
 			top: 0;
 			background-image: url("images/overlay.png");
